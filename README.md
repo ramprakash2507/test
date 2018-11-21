@@ -9,5 +9,7 @@ Creating testmaster.cpp from master branch
 
 ##Merge 
 
+Dev ignored dumb files 
+
 ##Rebase 
 
