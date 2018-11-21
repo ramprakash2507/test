@@ -11,5 +11,7 @@ Creating testmaster.cpp from master branch
 
 Dev ignored dumb files 
 
+Master has not changed even when I did rebase/merge from dev([dev] git rebase/merge master)
+
 ##Rebase 
 
