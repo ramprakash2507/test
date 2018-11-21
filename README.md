@@ -2,7 +2,8 @@
 
 I will be using this to understand git features 
 
-##Branches
+##Branches 
+We have a new branch dev
 
 ##Merge 
 
